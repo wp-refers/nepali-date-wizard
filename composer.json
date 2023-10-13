@@ -1,0 +1,27 @@
+{
+    "name": "wprefers/nepali-date-wizard",
+    "description": "Seamlessly convert and display dates between Gregorian and Nepali calendars, celebrating Nepal's rich heritage on your website.",
+    "type": "plugin",
+    "autoload": {
+        "psr-4": {
+            "WPRefers\\NepaliDateWizard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WP Refers",
+            "email": "wprefers@gmail.com",
+            "homepage": "https://wprefers.com",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Sachin Rai",
+            "email": "sachinkiranti@gmail.com",
+            "homepage": "https://raisachin.com.np",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+
+    }
+}
